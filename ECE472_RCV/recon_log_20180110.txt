@@ -1,0 +1,4 @@
+20180110
+8PM:  
+	recon from E: remove K from camera matrix 
+	normalize "q"
